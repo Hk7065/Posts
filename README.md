@@ -1,5 +1,5 @@
 #Posts 
-* Havent removed console.log for cached posts so that anyone can check that its working and as per the reuirements it is working for 15min.
+* Havent removed console.log for cached posts so that anyone can check that its working and as per the requirements it is working for 15min.
 
 
 # Nuxt Minimal Starter
