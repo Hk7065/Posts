@@ -1,3 +1,7 @@
+#Posts 
+* Havent removed console.log for cached posts so that anyone can check that its working and as per the reuirements it is working for 15min.
+
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
